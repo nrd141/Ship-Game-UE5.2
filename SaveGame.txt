@@ -37,3 +37,4 @@ Game Saved : level1, Jul 2, 2024, 11:27:08 AM, Faisal, 3 : 55, Score : 215
 Game Saved : level2, Jul 2, 2024, 11:33:22 AM, jauhi nafsu duniawi, 4 : 3, Score : 297
 Game Saved : level2, Jul 2, 2024, 11:35:19 AM, jauhi nafsu duniawi, 1 : 38, Score : 482
 Game Saved : level2, Jul 2, 2024, 11:36:24 AM, jauhi nafsu duniawi, 0 : 43, Score : 537
+Game Saved : level2, Jul 3, 2024, 11:21:39 AM, , 0 : 50, Score : 535
