@@ -38,3 +38,9 @@ Game Saved : level2, Jul 2, 2024, 11:33:22 AM, jauhi nafsu duniawi, 4 : 3, Score
 Game Saved : level2, Jul 2, 2024, 11:35:19 AM, jauhi nafsu duniawi, 1 : 38, Score : 482
 Game Saved : level2, Jul 2, 2024, 11:36:24 AM, jauhi nafsu duniawi, 0 : 43, Score : 537
 Game Saved : level2, Jul 3, 2024, 11:21:39 AM, , 0 : 50, Score : 535
+Game Saved : level2, Jul 2, 2024, 11:33:22 AM, arya, 5 : 9, Score : 70
+Game Saved : level2, Jul 2, 2024, 11:35:19 AM, arya, 1 : 52, Score : 487
+Game Saved : level2, Jul 2, 2024, 11:36:24 AM, arya, 1 : 10, Score : 520
+Game Saved : level1, Jul 3, 2024, 5:36:32 PM, Joko, 0 : 52, Score : 438
+Game Saved : level2, Jul 3, 2024, 5:43:40 PM, Joko, 6 : 59, Score : 110
+Game Saved : level1, Jul 3, 2024, 5:45:37 PM, , 0 : 44, Score : 406
