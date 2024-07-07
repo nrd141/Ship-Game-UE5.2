@@ -45,3 +45,6 @@ Game Saved : level1, Jul 3, 2024, 5:36:32 PM, Joko, 0 : 52, Score : 438
 Game Saved : level2, Jul 3, 2024, 5:43:40 PM, Joko, 6 : 59, Score : 110
 Game Saved : level1, Jul 3, 2024, 5:45:37 PM, , 0 : 44, Score : 406
 Game Saved : level1, Jul 4, 2024, 9:07:09 AM, naufaldi, 0 : 5, Score : 495
+Game Saved : level1, Jul 5, 2024, 1:08:48 PM, , 0 : 9, Score : 491
+Game Saved : level1, Jul 5, 2024, 1:10:18 PM, , 0 : 6, Score : 494
+Game Saved : level1, Jul 7, 2024, 9:23:44 AM, , 0 : 13, Score : 387
