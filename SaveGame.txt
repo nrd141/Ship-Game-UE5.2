@@ -49,3 +49,6 @@ Game Saved : level1, Jul 5, 2024, 1:08:48 PM, , 0 : 9, Score : 491
 Game Saved : level1, Jul 5, 2024, 1:10:18 PM, , 0 : 6, Score : 494
 Game Saved : level1, Jul 7, 2024, 9:23:44 AM, , 0 : 13, Score : 387
 Game Saved : level1, Jul 8, 2024, 2:42:09 PM, , 0 : 4, Score : 396
+Game Saved : level1, Jul 8, 2024, 10:23:12 PM, satu, 0 : 11, Score : 389
+Game Saved : level1, Jul 8, 2024, 10:23:36 PM, dua, 0 : 10, Score : 390
+Game Saved : level1, Jul 8, 2024, 10:23:59 PM, dua, 0 : 14, Score : 386
